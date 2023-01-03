@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board", "Checkers\Board.csproj", "{2B783D16-DCAA-40BB-90FA-A563C03C1B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{66A74279-DD1E-4C54-90A0-AF4070D91E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInteraction", "UserInteraction\UserInteraction.csproj", "{2F29B5B4-5488-404A-8911-2842B7DB0710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B783D16-DCAA-40BB-90FA-A563C03C1B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B783D16-DCAA-40BB-90FA-A563C03C1B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B783D16-DCAA-40BB-90FA-A563C03C1B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B783D16-DCAA-40BB-90FA-A563C03C1B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A74279-DD1E-4C54-90A0-AF4070D91E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A74279-DD1E-4C54-90A0-AF4070D91E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A74279-DD1E-4C54-90A0-AF4070D91E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A74279-DD1E-4C54-90A0-AF4070D91E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F29B5B4-5488-404A-8911-2842B7DB0710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F29B5B4-5488-404A-8911-2842B7DB0710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F29B5B4-5488-404A-8911-2842B7DB0710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F29B5B4-5488-404A-8911-2842B7DB0710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44D0CB94-E7AF-48B9-AC7A-6E8E6A724C41}
+	EndGlobalSection
+EndGlobal
